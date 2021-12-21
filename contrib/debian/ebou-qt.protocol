@@ -1,0 +1,11 @@
+[Protocol]
+exec=ebou-qt '%u'
+protocol=ebou
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

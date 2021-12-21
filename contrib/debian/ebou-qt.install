@@ -1,0 +1,6 @@
+usr/local/bin/ebou-qt usr/bin
+share/pixmaps/ebou32.xpm usr/share/pixmaps
+share/pixmaps/ebou16.xpm usr/share/pixmaps
+share/pixmaps/ebou128.png usr/share/pixmaps
+debian/ebou-qt.desktop usr/share/applications
+debian/ebou-qt.protocol usr/share/kde4/services/

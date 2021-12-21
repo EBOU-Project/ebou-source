@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=ebou Core
+Comment=ebou P2P Cryptocurrency
+Comment[de]=Verbinde mit dem ebou peer-to-peer Netzwerk
+Comment[fr]=ebou, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ebou, eşten eşe kriptografik sanal para birimi
+Exec=ebou-qt %u
+Terminal=false
+Type=Application
+Icon=ebou128
+MimeType=x-scheme-handler/ebou;
+Categories=Office;Finance;
+StartupWMClass=ebou-qt
